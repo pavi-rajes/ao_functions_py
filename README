@@ -2,8 +2,8 @@ List of Python functions available in this repository:
 
 Plotting:
 -Generating beautiful figures using Seaborn/ matplotlib.pyplot 
--Figure settings for high resolution export
--Customizing color palette 
+-Figure settings for high resolution export and customizing color palette 
+-Rastor plot and PSTH 
 -Generating 3D plots
 -Connectivity graph plots 
 
