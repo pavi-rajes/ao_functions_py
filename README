@@ -1,0 +1,25 @@
+List of Python functions available in this repository:
+
+Plotting:
+-Generating beautiful figures using Seaborn/ matplotlib.pyplot 
+-Figure settings for high resolution export
+-Customizing color palette 
+-Generating 3D plots
+-Connectivity graph plots 
+
+Data Preprocessing:
+-Binning/reshaping matrix based on mean/sum/average 
+-Adding new dimension 
+-Normalize and z-score data 
+-Bootstrapping with replacement for chance eigen values 
+-Temporal shuffling for chance prediction
+
+Modelling:
+-Poisson Spike Generation with time dependent and time independent firing rate
+-Spike Trigerred Average 
+-PCA
+-dPCA
+-TCA 
+
+Statistical Analysis:
+-Kruskal Wallis test p value by group - box plot 
