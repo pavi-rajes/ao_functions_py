@@ -14,6 +14,11 @@ Data Preprocessing:
 -Bootstrapping with replacement for chance eigen values 
 -Temporal shuffling for chance prediction
 
+Data Loading:
+- Import in Google colab notebook 
+- Import using Google Drive File Stream 
+- Create a dataframe with spikedata and metadata 
+
 Modelling:
 -Poisson Spike Generation with time dependent and time independent firing rate
 -Spike Trigerred Average 
